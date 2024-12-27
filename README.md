@@ -13,7 +13,7 @@ __Как настраивать?__
 пример:
 ```json
 {
-  "1": "badge1.png",
+  	"1": "badge1.png",
 	"2": "badge2.png",
 	"3": "badge3.png",
 	"4": "badge4.png"
