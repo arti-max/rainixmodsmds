@@ -1,4 +1,7 @@
-# BadgeCustomizer
+- [BadgeCustomizer](#BadgeCustomizer)
+- [RateCustomizer](#RateCustomizer)
+
+## BadgeCustomizer
 
 __Что это такое?__
 
@@ -56,3 +59,12 @@ if ($gs->getMaxValuePermission($accountID,"actionRequestMod") >= 1) { // checks 
 ?>
 ```
 т.е. оснавная задача сделать так, чтобы эоот файл возвращал именно айди нужного беджа, который вы указали в json файле конфига мода
+
+
+## RateCustomizer
+
+
+
+
+
+
